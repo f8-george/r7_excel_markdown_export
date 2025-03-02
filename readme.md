@@ -9,7 +9,7 @@
 - скачать .plugin из distribution либо скачать папку plugin и архивировать её с разрешением .plugin
 - [установить](https://r7-consult.ru/r7_faq) плагин
 - нажать кнопку Copy
-- вставить таблицу markdown редактор
+- вставить таблицу в markdown редактор
 
 ## examples
 
